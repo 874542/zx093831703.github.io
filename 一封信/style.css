@@ -10,6 +10,11 @@
   border-radius: 2%;
 }
 
+.img-1 {
+  display: inline-block;
+  margin-left: 2.2vw;
+}
+
 img {
   margin: 1vw;
   width: 20vw;
